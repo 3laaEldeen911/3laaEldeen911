@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Alaa Eldin from Egypt 🇪🇬<br><br>- 🔭 I’m working as a Front-End Developer (currently building real-world projects)<br>- 📚 I'm currently learning JavaScript, React, Next.js & practicing Data Structures with C#<br>- ⚡ In my free time I build projects, play games like Spider-Man & Horizon, and improve my design skills with Photoshop and Illustrator</p>
+<p align="left">I'm Alaa Eldin from Egypt 🇪🇬<br><br>- 🔭 I’m currently focused on building real-world front-end projects to develop strong, job-ready skills.<br>- 📚 I'm actively learning JavaScript, React, and Next.js, while strengthening my understanding of Data Structures using C#.<br>- ⚡ In my free time, I practice problem-solving, work on personal and client-based projects, and enhance my design abilities using Photoshop and Illustrator.</p>
 
 ###
 
