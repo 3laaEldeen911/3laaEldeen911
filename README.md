@@ -35,18 +35,18 @@
 
 ###
 
-<p align="left"> I'm Alaa Eldin, a Front-End Developer based in Egypt 🇪🇬<br><br>
-🔭 Currently focused on building real-world front-end applications to gain solid, job-ready experience.<br>
+<p align="left">
+  I'm Alaa Eldin, a Computer Science student and aspiring Front-End Developer based in Egypt 🇪🇬<br><br>
 
-💡 Learning and applying JavaScript, React, and Next.js through hands-on projects and daily practice.<br>
+  👨‍💻 I'm currently focused on learning front-end development by studying and applying JavaScript, React, and Next.js through real-world projects.<br>
 
-🧠 Strengthening my understanding of Data Structures and Algorithms using C# to improve my problem-solving skills.<br>
+  🧠 I'm also working on improving my understanding of Data Structures and Algorithms using C# to build a strong foundation in problem-solving.<br>
 
-🎨 I also work with Photoshop and Illustrator to enhance the visual quality of my projects and create impactful UI designs.<br>
+  🎯 My goal is to develop the skills and experience needed to start working professionally and contribute to meaningful projects.<br>
 
-🚀 In my free time, I enjoy solving coding challenges and working on freelance and personal projects to keep sharpening my skills.
-
+  💡 I'm always exploring new ideas, building personal projects, and trying to improve step by step.
 </p>
+
 
 ###
 
