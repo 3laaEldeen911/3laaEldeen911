@@ -70,6 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+   <img width="12" />
+  <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" height="40" alt="tyepScript logo"  />
 </div>
 
 ###
